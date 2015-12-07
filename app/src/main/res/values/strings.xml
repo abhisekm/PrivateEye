@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Private Eye</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_accessibility_service_label">Private Eye</string>
+    <string name="accessibility_service_description">Show hidden info for a view</string>
+    <string name="button_accessibility">Open Accessibility Settings</string>
+    <string name="info_text">Open Accessibility Settings and Enable Private Eye and click on View to see their hidden text!</string>
+    <string name="action_info">Info</string>
+</resources>
